@@ -1,10 +1,10 @@
-# 🎨 The Virtual Museum
+# The Virtual Museum
 
 > *Onde clássicos da arte encontram tecnologia*
 
 ![Welcome Screen](images/WelcomeArtie.png)
 
-## 💡 O Conceito
+## Conceito
 
 **The Virtual Museum** nasceu de uma provocação pessoal como
 tornar arte acessível e envolvente para uma geração que cresce entre telas e interfaces digitais?
@@ -15,7 +15,7 @@ Este projeto não é apenas um portfólio técnico. É uma declaração de que *
 
 ![Mona Lisa Experience](images/MonalisaArtie.png)
 
-## 🎯 Por que este projeto está no meu portfólio?
+## Por que este projeto está no meu portfólio?
 
 ### 1. **Storytelling através de código**
 Não basta construir interfaces funcionais. Elas precisam *contar histórias*. Cada decisão visual aqui — das partículas holográficas aos balões de fala, da animação de entrada à despedida com luzes apagando — foi pensada para criar uma **narrativa imersiva**.
@@ -88,7 +88,7 @@ TheVirtualMuseum/
 
 ---
 
-## 💭 Reflexões Finais
+## Reflexões Finais
 
 Este projeto representa minha filosofia de desenvolvimento:
 
@@ -101,3 +101,4 @@ Se você chegou até aqui, obrigado por visitar o museu. Espero que Artie tenha 
 ---
 
 *"A arte é a mentira que nos permite reconhecer a verdade." — Pablo Picasso*
+
