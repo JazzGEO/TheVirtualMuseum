@@ -100,5 +100,6 @@ Se você chegou até aqui, obrigado por visitar o museu. Espero que Artie tenha 
 
 ---
 
-*"A arte é a mentira que nos permite reconhecer a verdade." — Pablo Picasso*
+*"A arte é a mentira que nos permite reconhecer a verdade." Pablo Picasso*
+
 
