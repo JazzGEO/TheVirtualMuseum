@@ -84,10 +84,11 @@ TheVirtualMuseum/
 │   ├── WelcomeArtie.png    # Screenshot para README
 │   └── MonalisaArtie.png   # Screenshot para README
 └── README.md           # Este arquivo
+```
 
 ---
 
-## Reflexões Finais
+## 💭 Reflexões Finais
 
 Este projeto representa minha filosofia de desenvolvimento:
 
@@ -95,7 +96,7 @@ Este projeto representa minha filosofia de desenvolvimento:
 
 Cada linha de código aqui foi escrita pensando em como fazer alguém *sentir* algo. Arte digital não precisa ser fria. Pode ser envolvente, provocativa e até engraçada.
 
-Se você chegou até aqui, obrigado por visitar o museu. Espero que Artie tenha sido uma boa guia. 
+Se você chegou até aqui, obrigado por visitar o museu. Espero que Artie tenha sido uma boa guia. 🎨✨
 
 ---
 
