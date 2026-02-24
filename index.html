@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>The Virtual Museum</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="entrance">
+        <img src="images/fachada.jpg" alt="Museu" class="fachada-img">
+        <div class="entrance-content">
+            <div class="museum-title">
+                <h1>The Virtual Museum</h1>
+                <p>Uma experiência holográfica</p>
+            </div>
+            <button id="knockButton" class="knock-btn">Bater na Porta</button>
+        </div>
+    </div>
+
+    <div id="welcome" class="hidden">
+        <div class="museum-bg"></div>
+        <div class="artie-welcome-container">
+            <canvas id="particlesWelcome" class="particles-canvas"></canvas>
+            <img src="images/artie.png" alt="Artie" id="artieWelcome" class="artie-welcome">
+        </div>
+        <div class="speech-bubble-welcome hidden" id="speechBubbleWelcome">
+            <p id="speechTextWelcome"></p>
+        </div>
+        <button id="enterBtn" class="enter-btn hidden">Entrar no Museu →</button>
+    </div>
+
+    <div id="museum" class="hidden">
+        <div class="museum-bg"></div>
+        <div class="artie-container">
+            <canvas id="particlesMuseum" class="particles-canvas"></canvas>
+            <img src="images/artieexplica.png" alt="Artie" id="artie" class="artie">
+        </div>
+        <div class="speech-bubble hidden" id="speechBubble">
+            <p id="speechText"></p>
+        </div>
+        <div class="artwork-container" id="artworkContainer">
+            <div class="frame-decoration"></div>
+            <div class="artwork" id="currentArtwork"></div>
+        </div>
+        <div class="navigation">
+            <button id="prevBtn" class="nav-btn hidden">‹</button>
+            <button id="nextBtn" class="nav-btn hidden">›</button>
+        </div>
+        <div class="artwork-info hidden" id="artworkInfo">
+            <h2 id="artworkTitle"></h2>
+            <p id="artworkArtist"></p>
+        </div>
+    </div>
+
+    <div id="ending" class="hidden">
+        <div class="museum-bg"></div>
+        <div class="artie-welcome-container">
+            <img src="images/artie.png" alt="Artie" id="artieEnding" class="artie-welcome">
+        </div>
+        <div class="speech-bubble-welcome hidden" id="speechBubbleEnding">
+            <p id="speechTextEnding"></p>
+        </div>
+        <button id="restartBtn" class="enter-btn hidden">Recomeçar Tour ↻</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
