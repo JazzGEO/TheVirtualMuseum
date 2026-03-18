@@ -73,7 +73,7 @@ Frameworks são poderosos, mas adicionar 100kb+ de JavaScript para um projeto qu
 10. Nighthawks — Edward Hopper
 11. American Gothic — Grant Wood
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 ```
 TheVirtualMuseum/
 ├── index.html          # Estrutura semântica
