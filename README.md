@@ -33,9 +33,9 @@ Este projeto é um protótipo, e assume isso sem desconforto. Mas a ideia por tr
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Tecnologias
 
-### **Por que escolhi cada ferramenta?**
+### **Por que escolhi cada ferramenta**
 
 #### **HTML5 Semântico**
 - Estrutura clara e acessível
