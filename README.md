@@ -21,7 +21,10 @@ Este projeto não é apenas um portfólio técnico. É uma declaração de que *
 Não basta construir interfaces funcionais. Elas precisam *contar histórias*. Cada decisão visual aqui das partículas holográficas aos balões de fala, da animação de entrada à despedida com luzes apagando, foi pensada para criar uma **narrativa imersiva**.
 
 ### 2. **Acessibilidade cultural**
-Arte pode ser intimidadora. Museus físicos podem ser caros, distantes ou excludentes. Este projeto democratiza o acesso: qualquer pessoa com internet pode "entrar" no museu, ter uma experiência guiada e aprender sobre obras sem barreiras.
+Por que não só pesquisar no Google?
+Abrir uma imagem da Mona Lisa no Google resolve o problema da informação, mas não resolve o problema da experiência. Uma busca entrega pixels. O que falta e sempre faltou nas versões digitais da arte, é contexto vivo, aquela voz ao lado que diz "olha aqui" e te faz enxergar o que você não veria sozinho.
+A Artie é uma tentativa de preencher esse espaço.
+Este projeto é um protótipo, e assume isso sem desconforto. Mas a ideia por trás dele aponta para algo maior, museus virtuais que não são apenas galerias estáticas, guias que se adaptam a quem pergunta, obras que ganham camadas conforme você interage. A tecnologia para isso já existe o que ainda está sendo construído é a linguagem para usá-la bem, de um jeito que respeite tanto a arte quanto quem a contempla.
 
 ### 3. **Inovação na experiência do usuário**
 - **Interatividade fluida**: Clique para acelerar diálogos, partículas que reagem à presença da Artie
