@@ -18,7 +18,7 @@ Este projeto não é apenas um portfólio técnico. É uma declaração de que *
 ## Por que este projeto está no meu portfólio?
 
 ### 1. **Storytelling através de código**
-Não basta construir interfaces funcionais. Elas precisam *contar histórias*. Cada decisão visual aqui — das partículas holográficas aos balões de fala, da animação de entrada à despedida com luzes apagando — foi pensada para criar uma **narrativa imersiva**.
+Não basta construir interfaces funcionais. Elas precisam *contar histórias*. Cada decisão visual aqui das partículas holográficas aos balões de fala, da animação de entrada à despedida com luzes apagando, foi pensada para criar uma **narrativa imersiva**.
 
 ### 2. **Acessibilidade cultural**
 Arte pode ser intimidadora. Museus físicos podem ser caros, distantes ou excludentes. Este projeto democratiza o acesso: qualquer pessoa com internet pode "entrar" no museu, ter uma experiência guiada e aprender sobre obras sem barreiras.
