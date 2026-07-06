@@ -9,7 +9,7 @@
 **The Virtual Museum** nasceu de uma provocação pessoal como
 tornar arte acessível e envolvente para uma geração que cresce entre telas e interfaces digitais?
 
-A resposta veio na forma de **Artie** uma guia holográfica que não apenas *mostra* obras de arte, mas *conversa* sobre elas. Ela tem personalidade, opinião, e traz uma camada de humanidade (paradoxalmente artificial) que transforma a experiência de contemplar arte em algo próximo de uma conversa entre amigos em um museu real
+A resposta veio na forma de **Artie** uma guia holográfica que não apenas *mostra* obras de arte, mas *conversa* sobre elas. Ela tem personalidade, opinião, e traz uma camada de humanidade (paradoxalmente artificial) que transforma a experiência de contemplar arte em algo próximo de uma conversa entre amigos em um museu real.
 
 Este projeto não é apenas um portfólio técnico. É uma declaração de que **tecnologia e cultura podem e devem coexistir de forma orgânica**.
 
